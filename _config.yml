@@ -15,6 +15,3 @@ paginate:            5
 author:
   name:              Avi Agarwal
   url:               https://twitter.com/avidiotic
-
-# Custom vars
-version:             1.0.0

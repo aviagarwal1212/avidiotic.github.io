@@ -2,29 +2,15 @@
 layout: page
 title: About
 ---
+Hey there! My name is Avi. 
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I have written on the internet before; I had a couple of childish blogs in college and still have hundreds on unpublished and unfinished drafts on Medium. Medium fascinated me, as it disconnected me from the distractions of making things look perfect. However, with the endurability of the platform and ownership of my writing under question, I decided to look for an alternative. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+So here I am, on my very own blog. Expect no continuity of themes here, my writing wanders as my mind does; I might indulge you in a bit of commentary on media, technology and politics one day and surprise you with a haiku the next.
 
-There are currently two themes built on Poole:
+If you want to get in touch, feel free to hit me up on [Twitter](https://twitter.com/avidiotic). I also like to occasionally put up pictures on [Instagram](https://instagram.com/@avidiotic). 
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I would like to thank [@mdo](https://twitter.com/mdo) for this beautiful and elegant theme.
 
 Thanks for reading!
+
