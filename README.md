@@ -16,7 +16,7 @@ The theme is a modification of [Mark Otto](https://twitter.com/mdo)'s Jekyll bas
 
 # License
 
-The following directories and their content are Copyright Avi Agarwal. You may noy use anything there in without my permission or proper credits:
+The following directories and their content are Copyright Avi Agarwal. You may not use anything there in without my permission or proper credits:
 * _posts/
 * images/
 
