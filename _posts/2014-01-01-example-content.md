@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Test Content
-category: writing
+category: commentary
 ---
 
 
